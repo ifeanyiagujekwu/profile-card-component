@@ -1,0 +1,23 @@
+body{
+    background-color: hsl(185, 75%, 39%);
+    
+}
+
+.container{
+    width: 70%;
+    margin: 0 auto;
+    background-color: white;
+    
+}
+
+.container svg{
+    width: 100%;
+    pos
+}
+
+.container img{
+    clip-path: circle(50%);
+    position: absolute;
+    z-index: 1;
+    margin: 0 auto;
+}
